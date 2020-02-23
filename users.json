@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Jonathan Joestar",
+        "email": "jojo@hotmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Joseph Joestar",
+        "email": "jojo_69@yahoo.com"
+    },
+    {
+        "id": 3,
+        "name": "Jotaro Kujo",
+        "email": "jotaro_kujo@hotmail.com"
+    },
+    {
+        "id": 4,
+        "name": "Josuke Higashikata",
+        "email": "josukeee@gmail.com"
+    },
+    {
+        "id": 5,
+        "name": "Giorno Giovanna",
+        "email": "haruno_shiobana@gmail.com"
+    },
+    {
+        "id": 6,
+        "name": "Jolyne Cujoh",
+        "email": "jojolyne@gmail.com"
+    },
+    {
+        "id": 7,
+        "name": "Jonathan Joestar",
+        "email": "johnny_star@hatmail.com"
+    },
+    {
+        "id": 8,
+        "name": "Josuke Higashikata",
+        "email": "yoshikage_kira@jmail.com"
+    }
+]
